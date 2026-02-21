@@ -8,3 +8,7 @@ This is a standard 3.5" DD containing the expanded contents of [MiSTer_share.lha
 It can be directly mounted on a fresh Minimig core to configure the shared folder.
 
 adf file is created with WinUAE (standard 3.5" DD), then on Minimig core on MiSTer FPGA, it is renamed, MiSTer_share.lha and lha.run is copied into it, then lha.run and then lha_68020 x MiSTer_share.lha executed.
+
+## blank.adf
+
+A blank standard 3.5" DD created with WinUAE.
